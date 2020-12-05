@@ -23,9 +23,12 @@ Specify "bs-boolean-switch" for the `type` attribute of any input.
 or
 
 ```js
-autoform: {
-    afFieldInput: {
-        type: "bs-boolean-switch",
+plans: {
+    type: Boolean,
+    autoform: {
+        afFieldInput: {
+            type: "bs-boolean-switch",
+        }
     }
 }
 ```
