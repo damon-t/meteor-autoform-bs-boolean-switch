@@ -6,6 +6,7 @@ Package.describe({
   });
   
   Package.onUse(function(api) {
+    api.use('templating@1.0.0');
     api.use('blaze@2.3.4');
     api.use('aldeed:autoform@7.0.0');
     api.addFiles([
