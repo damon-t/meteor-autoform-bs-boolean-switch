@@ -1,7 +1,7 @@
 Package.describe({
     name: 'odem:autoform-bs-boolean-switch',
     summary: 'A Bootstrap button switch input types for AutoForm ',
-    version: '1.0.0',
+    version: '1.0.1',
     git: 'https://github.com/damon-t/meteor-autoform-bs-boolean-switch'
   });
   
