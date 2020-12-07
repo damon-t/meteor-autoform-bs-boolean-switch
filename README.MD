@@ -17,7 +17,7 @@ $ meteor add odem:autoform-bs-boolean-switch
 Specify "bs-boolean-switch" for the `type` attribute of any input.
 
 ```js
-{{> afQuickField name="plans" type="bs-select-switch"}}
+{{> afQuickField name="plans" type="bs-boolean-switch"}}
 ```
 
 or
