@@ -9,7 +9,7 @@ An add-on Meteor package for [aldeed:autoform](https://github.com/Meteor-Communi
 In a Meteor app directory, enter:
 
 ```bash
-$ meteor add odem:autoform-bs-button-switch
+$ meteor add odem:autoform-bs-boolean-switch
 ```
 
 ## Usage
